@@ -1,0 +1,6 @@
+C:\Users\Administrator.USER-20180927TL\Desktop\C#\NewCounter\NewCounter\bin\Debug\NewCounter.exe.config
+C:\Users\Administrator.USER-20180927TL\Desktop\C#\NewCounter\NewCounter\bin\Debug\NewCounter.exe
+C:\Users\Administrator.USER-20180927TL\Desktop\C#\NewCounter\NewCounter\bin\Debug\NewCounter.pdb
+C:\Users\Administrator.USER-20180927TL\Desktop\C#\NewCounter\NewCounter\obj\Debug\NewCounter.exe
+C:\Users\Administrator.USER-20180927TL\Desktop\C#\NewCounter\NewCounter\obj\Debug\NewCounter.pdb
+C:\Users\Administrator.USER-20180927TL\Desktop\C#\NewCounter\NewCounter\obj\Debug\NewCounter.csprojResolveAssemblyReference.cache
